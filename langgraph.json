@@ -1,0 +1,10 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "example_graph": "./prebuilts_agents/multi_agent/multi_agent_swarm_simple.py:swarm"
+  },
+  "env": ".env",
+  "python_version": "3.11",
+  "image_distro": "wolfi"
+}
+
